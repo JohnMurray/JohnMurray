@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-This is my personal project ~graveyard~ playground. None of these projects should be taken seriously, being either things that likely only have value to me or are silly projects for my own learning and entertainment.
+This is my personal project ~graveyard~ playground. _Most_ of these projects shouldn't be taken seriously, being either things that likely only have value to me or are silly projects for my own learning and entertainment. My current focus is on [__busan__](http://github.com/JohnMurray/busan), which __is__ a serious project and I recommend you check it out.
 
-I also do a small amount of open-source work for my employer under [@murray-stripe](https://github.com/murray-stripe/), although sometimes I do that work on this account too. Good luck making sense of things. :-P
+I've previously done some work for my employer under [@murray-stripe](https://github.com/murray-stripe/).
 
 <!--
 **JohnMurray/JohnMurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

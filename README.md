@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my personal project ~graveyard~ playground. _Most_ of these projects shouldn't be taken seriously, being either things that likely only have value to me or are silly projects for my own learning and entertainment. My current focus is on [__busan__](http://github.com/JohnMurray/busan), which __is__ a serious project and I recommend you check it out.
+This is my personal project ~graveyard~ playground. _Most_ of these projects shouldn't be taken seriously, being either things that likely only have value to me or are silly projects for my own learning and entertainment.
 
 I've previously done some work for my employer under [@murray-stripe](https://github.com/murray-stripe/).
 
